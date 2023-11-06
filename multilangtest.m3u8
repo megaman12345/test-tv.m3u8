@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.4d401e",VIDEO="Tamil"
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:C1:54:3B&stream=155730&extension=ts&play_token.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:C1:54:3B&stream=155730&extension=m3u8&play_token.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720,CODECS="avc1.4d401f",VIDEO="English"
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:C1:54:3B&stream=155746&extension=ts&play_token.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:C1:54:3B&stream=155746&extension=m3u8&play_token.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,CODECS="avc1.4d401f",VIDEO="Hindi"
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:C1:54:3B&stream=1116486&extension=ts&play_token.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:C1:54:3B&stream=1116486&extension=m3u8&play_token.m3u8
