@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+
+#EXTINF:-1,Star Movies HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:76:8d:80&stream=1116488&extension=ts&play_token.ts
+#EXTINF:-1,Star Movies Select HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:76:8d:80&stream=155729&extension=ts&play_token.ts
+#EXTINF:-1 tvg-id="MTV.HD.in" tvg-name="MTV.HD.in",MTV HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:76:8d:80&stream=1118066&extension=ts&play_token.ts
+#EXTINF:-1,And Flix HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:76:8d:80&stream=155990&extension=ts&play_token.ts
+#EXTINF:-1,And prive HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:76:8d:80&stream=155746&extension=ts&play_token.ts
+#EXTINF:-1,Zee Cafe HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:76:8d:80&stream=155730&extension=ts&play_token.ts
+#EXTINF:-1,Colors Infinity HD
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:76:8d:80&stream=1116486&extension=ts&play_token.ts
