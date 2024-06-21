@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="" ,Hungama
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:64:CF:A5&stream=1097664&extension=ts&play_token=LsVzfesqc9
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="" ,Super Hungama
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:64:CF:A5&stream=1097624&extension=ts&play_token=vHjtzStXIP
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="" ,Disney
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:64:CF:A5&stream=156000&extension=ts&play_token=jyDd3x4JLx
