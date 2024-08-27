@@ -3,3 +3,11 @@
 #EXTINF:-1 tvg-id="Animax.HD.sg" tvg-name="Animax.HD.sg" group-title="" tvg-logo="https://i.ibb.co/Wyf6h2k/Animax.jpg",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Animax.HD.sg" tvg-name="Animax.HD.sg" group-title="" tvg-logo="https://i.ibb.co/Wyf6h2k/Animax.jpg",Rock enter
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+
+
+
