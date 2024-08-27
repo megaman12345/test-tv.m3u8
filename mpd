@@ -4,9 +4,10 @@
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
+#EXTINF:-1 tvg-id="ROCK Entertainment HD" group-title="TV SINGAPORE" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Animax.HD.sg" tvg-name="Animax.HD.sg" group-title="" tvg-logo="https://i.ibb.co/Wyf6h2k/Animax.jpg",Rock enter
+##https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
 
