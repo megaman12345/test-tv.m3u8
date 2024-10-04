@@ -25,4 +25,9 @@ https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
 #EXTINF:-1 tvg-id="118" group-title="🇲🇾 MALAYSIA" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",Hypp Inspirasi
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
+#EXTINF:-1,One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
 
